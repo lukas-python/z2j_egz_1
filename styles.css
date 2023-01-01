@@ -1,0 +1,15 @@
+.menu {
+    background-color: grey;
+}
+
+.menu:hover {
+    color: red;
+}
+
+.content {
+    background-color: ivory;
+}
+
+.footer {
+    background-color: blue;
+}
